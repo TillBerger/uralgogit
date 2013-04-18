@@ -35,7 +35,8 @@ public class Card implements Comparable<Card> {
 		this.min = min;
 		this.maxlvl = maxlvl;
 		this.id = id;
-		this.elo= elo;
+		this.elo = elo;
+		this.value = value;
 	}
 	
 	
