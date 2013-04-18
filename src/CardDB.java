@@ -65,7 +65,33 @@ public class CardDB {
 		return -1;
 	}
 	
-	
+	public void toFileTest(){
+		System.out.print("Writing to file...");
+		try {
+			FileWriter fw = new FileWriter("C:\\Users\\Till Berger\\Desktop\\CardList2.txt");
+			BufferedWriter bw= new BufferedWriter(fw);
+			
+			
+			for(int i=0; i<cards.size(); i++){
+				Card c= cards.get(i);
+				String l= c.getName() +", "+ c.getClan() +", "+ c.getLvl() +", "+
+				c.getPow()+", "+c.getDmg()+", "+c.getCondition()+", "+c.getEffect()+", "+
+				c.getEffectvalue()+", "+c.getMin()+", "+c.getElo()+", "+
+				c.getMaxlvl()+", "+c.getId();
+				bw.write(l);
+				bw.newLine();
+			}
+			
+			
+			bw.flush();
+			fw.close();
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e){
+			e.printStackTrace();
+		}
+		System.out.println("completed.");
+	}
 	
 	public void fromFileTest(){
 		if(cards==null) return;
@@ -105,7 +131,8 @@ public class CardDB {
 							/*Someting*/ sa[9].trim(),
 							/*Maxlevel*/Integer.parseInt(sa[11].trim()),
 							/*ID*/Integer.parseInt(sa[12].trim()),
-							/*Rarity*/ sa[13].trim()
+							/*Rarity*/ sa[13].trim(),
+							/*Value*/ Integer.parseInt(sa[10].trim())
 							);
 					cards.add(c);
 				}
@@ -121,31 +148,7 @@ public class CardDB {
 		System.out.print("Now sorting...");
 		Collections.sort(cards);
 		System.out.println("completed.");
-		System.out.print("Writing to file...");
-		try {
-			FileWriter fw = new FileWriter("C:\\Users\\Till Berger\\Desktop\\CardList2.txt");
-			BufferedWriter bw= new BufferedWriter(fw);
-			
-			
-			for(int i=0; i<cards.size(); i++){
-				Card c= cards.get(i);
-				String l= c.getName() +", "+ c.getClan() +", "+ c.getLvl() +", "+
-				c.getPow()+", "+c.getDmg()+", "+c.getCondition()+", "+c.getEffect()+", "+
-				c.getEffectvalue()+", "+c.getMin()+", "+c.getElo()+", "+
-				c.getMaxlvl()+", "+c.getId();
-				bw.write(l);
-				bw.newLine();
-			}
-			
-			
-			bw.flush();
-			fw.close();
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		} catch (IOException e){
-			e.printStackTrace();
-		}
-		System.out.println("completed.");
+		
 	}
 	
 	
