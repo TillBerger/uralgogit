@@ -16,12 +16,7 @@ public class CardDB {
 	
 	public CardDB(){
 		cards= new ArrayList<Card>(initialListSize);
-		fromExternFile("C:\\Users\\Botchi\\Downloads\\urdecker_base\\urdecker_base\\DBcards1.js");
-		//"C:\\Users\\Till Berger\\Desktop\\CardList2.txt"
-		//"C:\\Users\\Till Berger\\Desktop\\DBcardsSmall.txt"
-		toFileTest("C:\\Users\\Botchi\\Desktop\\CardDB.txt");
-		cards.clear();
-		fromFile("C:\\Users\\Botchi\\Desktop\\CardDB.txt");
+		
 	}
 	
 	public Card getCard(String name){
@@ -68,6 +63,17 @@ public class CardDB {
 		}while(links<=rechts);
 		
 		return -1;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	public void clearCards(){
+		if(cards!=null) cards.clear();
 	}
 	
 	public void toFileTest(String filePath){
@@ -124,9 +130,7 @@ public class CardDB {
 				if(line.startsWith("//")) continue;
 				//if line is empty ignore
 				if(line.isEmpty()) continue;
-		
-			
-				System.out.println(line);
+				
 				String[] sa = line.split(",");
 				//only if the split has lenght 14
 				if(sa.length==12){
@@ -179,9 +183,7 @@ public class CardDB {
 				if(line.startsWith("//")) continue;
 				//if line is empty ignore
 				if(line.isEmpty()) continue;
-		
-			
-				System.out.println(line);
+
 				String[] sa = line.split(",");
 				//only if the split has lenght 14
 				if(sa.length==14){
@@ -221,8 +223,6 @@ public class CardDB {
 	
 	
 	
-	public static void main(String[] args){
-		CardDB db= new CardDB();
-	}
+	
 
 }
