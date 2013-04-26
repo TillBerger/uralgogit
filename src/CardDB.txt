@@ -1,134 +1,585 @@
-Aigwon, Skeelz, 4, 6, 6, -, soa, 0, 0, -, U, 8500
-Angie, Bangers, 5, 6, 8, -, pop, 0, 0, -, R, 2000
-Aniki, Montana, 4, 6, 6, Revenge:, -pow, 2, 5, -, C, 900
-Arawaka, Nightmare, 3, 6, 2, -, -lif, 6, 6, -, U, 300
-Ash, Rescue, 3, 7, 3, -, hl, 1, 8, -, U, 4500
-Astrid, GHEIST, 3, 6, 3, -, -lif, 3, 3, -, U, 1300
+A Award Cr, Sakrohm, 3, 3, 4, Courage:, +pow, 3, 0, -, C, 55000
+Acid DC, Junkz, 3, 3, 4, -, -, 0, 0, -, C, 150
+Adler, Jungo, 5, 8, 6, Stop:, +dam, 3, 0, -, C, 550
+Akendram, Freaks, 3, 7, 4, -, -atk, 6, 3, -, U, 1850
+Akiko, Junkz, 3, 2, 5, -, -dam, 1, 2, -, U, 500
+Aktara, Piranas, 3, 5, 4, Courage:, +dam, 4, 0, -, U, 450
+Aldebaran Cr, Sakrohm, 3, 4, 3, -, -, 0, 0, -, C, 400000
+Aldo, Montana, 3, 4, 4, -, -, 0, 0, -, C, 130
+Alec Cr, Rescue, 4, 7, 4, Support:, +dam, 1, 0, Perm., U, 39500
+Alexei, All_Stars, 4, 6, 5, -, soa, 0, 0, -, U, 500
+Alice, Pussycats, 2, 5, 2, -, -, 0, 0, -, C, 240
+Allan, Junkz, 2, 5, 3, -, -, 0, 0, -, C, 125
+Allison, All_Stars, 3, 5, 3, Courage:, +dam, 3, 0, -, U, 350
+Amanie, Roots, 4, 7, 3, -, +lif, 4, 0, -, R, 970
+Ambre, Leader, 5, 6, 4, Team: courage:, +pow, 3, 0, -, R, 20000
+Ambrose Cr, Nightmare, 3, 5, 3, -, lpd, 1, 0, -, U, 110000
+Amelia, All_Stars, 3, 3, 5, -, +pow, 4, 0, -, C, 190
+Amiral Py Cr, La_Junta, 3, 5, 5, -, -atk, 5, 2, -, U, 3800
+Amy, Sentinel, 3, 3, 5, Courage:, +pow, 3, 0, -, C, 250
+Andsom, Piranas, 3, 6, 4, -, -pil, 3, 3, -, U, 550
+Angelina, Montana, 2, 4, 1, -, dod, 0, 0, -, C, 190
+Anibal, GHEIST, 4, 6, 6, Revenge:, +pow, 2, 0, -, R, 1500
+Anita, Rescue, 3, 7, 3, Courage:, lpd, 1, 0, -, C, 2200
+Anton, Skeelz, 2, 6, 1, -, +pil, 3, 0, -, C, 430
+Archibald, La_Junta, 3, 7, 3, -, +pil, 2, 0, -, C, 640
+Archie, Junkz, 3, 7, 4, Protection:, bonus, 0, 0, -, U, 380
+Arkn, GHEIST, 2, 5, 4, -, -atk, 10, 5, -, R, 2000
+Armand, Roots, 5, 7, 7, -, -, 0, 0, -, R, 960
+Armanda Cr, Uppers, 3, 4, 4, -, -, 0, 0, -, C, 900000
+Arno, Roots, 2, 4, 4, -, -dam, 3, 2, -, U, 3100
+Ashigaru, Leader, 5, 8, 6, -, sb, 0, 0, -, R, 1300
+Ashley, All_Stars, 2, 5, 1, -, -dam, 3, 2, -, C, 270
+Askai, Jungo, 5, 7, 7, -, -atk, 12, 8, -, C, 1550
+Asporov, All_Stars, 4, 7, 3, Support:, +dam, 1, 0, -, U, 540
+Astrid, GHEIST, 3, 6, 3, -, -lif, 3, 3, -, U, 8400
+Ataoualpet, Roots, 3, 3, 4, -, -dam, 5, 5, -, C, 120
+Aurelia, Sentinel, 2, 7, 2, -, -, 0, 0, -, C, 400
+Aurora, Rescue, 5, 7, 5, -, +lif, 3, 0, -, R, 7600
 Avola, Montana, 5, 7, 5, Support:, +dam, 1, 0, -, U, 2000
-Baldovino, Freaks, 5, 8, 6, -, -pil, 2, 3, -, R, 3900
-Belgosi, Skeelz, 4, 7, 5, -, -pow, 2, 5, -, R, 3300
-Bella Ld, Montana, 3, 5, 5, Revenge:, +pow, 2, 0, -, L, 0
-Benson, Rescue, 4, 6, 6, Confidence:, +lif, 2, 0, -, R, 1200
-Bonnie Ld, Piranas, 2, 7, 2, Defeat:, +pil, 2, 0, -, L, 0
+Aylen, Skeelz, 5, 7, 5, -, +lif, 5, 0, -, U, 3900
+Azel, Nightmare, 4, 7, 4, -, poi, 3, 3, -, U, 2250
+Azgroth, Nightmare, 4, 8, 4, -, -pow, 2, 6, -, U, 7000
+B Ball, Bangers, 2, 6, 2, -, -dam, 2, 2, -, C, 900
+BB Cool G, Bangers, 3, 4, 6, -, -atk, 3, 1, -, C, 360
+Baby Q, Pussycats, 4, 6, 6, -, sob, 0, 0, -, R, 1400
+Beetenka, Uppers, 4, 7, 4, -, +dam, 2, 0, -, U, 600
+Beltran Cr, Roots, 2, 5, 2, Courage:, +pow, 3, 0, -, C, 50000
+Ben, Roots, 2, 6, 3, -, -, 0, 0, -, C, 190
+Bennie, Bangers, 2, 5, 3, -, +pow, 2, 0, -, C, 200
+Berserkgirl, Junkz, 3, 5, 4, -, +dam, 3, 0, -, R, 690
+Berserkgirl Cr, Junkz, 3, 5, 4, -, -, 0, 0, -, C, 730000
+Betty, Pussycats, 3, 7, 2, -, +lif, 2, 0, -, U, 480
+Beverly, Rescue, 3, 6, 4, Stop:, +dam, 3, 0, -, U, 320
+Bhudd, All_Stars, 3, 4, 2, -, +dam, 5, 0, -, U, 320
+Billy Bob, Roots, 4, 6, 5, -, -, 0, 0, -, C, 230
+Blaaster, Bangers, 4, 6, 6, -, -pow, 2, 3, -, R, 9900
+Bloodh, Piranas, 5, 7, 6, -, +lif, 3, 0, -, R, 4850
+Bob joby, Uppers, 2, 1, 6, -, -, 0, 0, -, C, 130
+Bobby, Rescue, 3, 6, 2, -, +dam, 3, 0, -, C, 720
+Bodenpower, Bangers, 5, 7, 7, -, -atk, 5, 2, -, U, 2200
+Bogdan, Freaks, 4, 8, 4, -, soa, 0, 0, -, U, 2300
+Boohma, Jungo, 3, 4, 5, Support:, +atk, 5, 0, -, C, 300
+Boris, Freaks, 3, 5, 4, -, -pow, 4, 4, -, R, 750
+Borss, Jungo, 2, 6, 2, -, sob, 0, 0, -, C, 300
+Bragh, Jungo, 5, 6, 7, -, -lif, 2, 1, -, U, 6400
+Brandon, Junkz, 3, 4, 4, -, soa, 0, 0, -, C, 130
+Bree, Ulu_Watu, 2, 6, 1, -, +dam, 2, 0, -, U, 2700
+Bridget, Leader, 5, 7, 5, -, lpr, 0, 0, -, R, 600
+Bristone, GHEIST, 3, 6, 4, -, -dam, 3, 2, -, U, 730
 Brittany, Pussycats, 2, 6, 2, -, -atk, 9, 6, -, U, 1150
+Bruce, La_Junta, 3, 8, 3, -, -, 0, 0, -, C, 1090
+Brutox, GHEIST, 3, 5, 4, -, -, 0, 0, -, C, 160
+Bryan, La_Junta, 4, 7, 5, -, soa, 0, 0, -, R, 2500
 Buba, Jungo, 4, 6, 5, Support:, +pow, 1, 0, -, C, 600
-Burdock, Roots, 4, 7, 4, -, sob, 0, 0, -, U, 650
-Butch, Vortex, 2, 6, 3, Courage:, +pow, 2, 0, -, U, 300
-C Beast, Vortex, 5, 5, 8, -, -pow, 4, 4, -, R, 5400
-C Blade, Vortex, 3, 7, 4, Stop:, +pow, 2, 0, -, C, 800
-C Wing, Vortex, 2, 6, 3, Defeat:, -lif, 2, 2, -, U, 4600
-Candice, Pussycats, 3, 6, 5, -, +pil, 2, 0, -, U, 2100
+Buck, Ulu_Watu, 4, 5, 7, -, +pow, 2, 0, -, R, 4600
+Bunny, Junkz, 4, 3, 8, -, -, 0, 0, -, C, 170
+Burger, La_Junta, 4, 6, 5, Courage:, +pow, 3, 0, -, U, 1150
+Burt, Uppers, 3, 6, 3, -, -dam, 3, 2, -, C, 670
+Caciope, Sakrohm, 3, 7, 3, -, -, 0, 0, -, C, 480
+Caelus, Skeelz, 5, 4, 8, -, -pow, 5, 2, Temp., R, 18000
+Candy Jack, Nightmare, 4, 3, 7, -, -, 0, 0, -, C, 170
+Carlos, Sentinel, 3, 7, 3, -, -, 0, 0, -, C, 145
+Cassandra, Freaks, 5, 8, 7, -, -, 0, 0, -, R, 2000
+Cassio Cr, Pussycats, 2, 5, 1, -, lpd, 2, 0, -, C, 25000
+Cell, Nightmare, 3, 2, 7, -, -, 0, 0, -, C, 180
+Cesare, All_Stars, 2, 6, 1, -, soa, 0, 0, -, C, 140
+Chad Bread Cr, Ulu_Watu, 3, 5, 5, -, -, 0, 0, -, C, 16000
+Chan, Fang_Pi_Clang, 2, 7, 1, -, +pow, 3, 0, -, R, 1500
+Charlie, Pussycats, 5, 7, 8, -, -dam, 2, 1, Temp., U, 11000
+Chiara, Skeelz, 3, 8, 4, Revenge:, -pow, 2, 1, -, U, 5000
+Chikko Cr, Bangers, 3, 4, 4, -, -, 0, 2, -, C, 6700
+Chill, Jungo, 4, 6, 6, -, +atk, 7, 0, -, U, 5500
+Chiro, La_Junta, 4, 8, 2, Support:, +dam, 1, 0, -, U, 750
+Chloe, Sentinel, 5, 5, 8, -, -dam, 4, 2, -, R, 2250
 Chlora, Bangers, 4, 6, 6, -, sob, 0, 0, -, C, 450
 Chwing, Skeelz, 3, 7, 3, -, sob, 0, 0, -, R, 670
-Cliff, Rescue, 5, 6, 8, Revenge:, soa, 0, 0, -, U, 2300
-Cyb Lhia, Vortex, 2, 8, 1, -, poi, 2, 4, -, R, 7300
-Dagg, Vortex, 4, 7, 5, -, +atk, 12, 0, -, R, 16300
+Clara, Pussycats, 5, 8, 5, -, sob, 0, 0, -, R, 1900
+Cley, Skeelz, 3, 5, 6, Confidence:, +pow, 3, 0, -, C, 650
+Coby, Sentinel, 4, 8, 3, Support:, +dam, 1, 0, -, U, 8500
+Colin, Uppers, 2, 3, 3, Courage:, +pow, 3, 0, -, C, 170
+Copper, Sentinel, 5, 4, 8, -, +pow, 5, 0, Temp., U, 10500
+Coraille, Ulu_Watu, 4, 5, 6, -, -, 0, 0, -, C, 125
+Corrina, Sakrohm, 3, 6, 4, -, +atk, 8, 0, -, R, 850
+Corvus, Skeelz, 4, 8, 3, -, +pil, 3, 0, -, R, 2900
+Crassus, Freaks, 4, 7, 3, -, +dam, 4, 0, -, U, 2200
+Crystal, Junkz, 4, 4, 7, -, sob, 0, 0, -, U, 390
+Cyan, Piranas, 3, 7, 1, -, dod, 0, 0, -, C, 220
+DJ Korr Cr, Junkz, 5, 8, 8, -, -dam, 3, 1, Perm., R, 6600000
+Dacha Macha, Freaks, 3, 6, 3, -, -, 0, 0, -, C, 160
+Dacote, La_Junta, 4, 6, 6, Stop:, +dam, 2, 0, -, U, 950
+Dagouba, Jungo, 3, 6, 5, Stop:, +atk, 8, 0, -, U, 600
+Dalhia, Piranas, 5, 8, 5, -, -pil, 3, 4, -, U, 10000
+Damian, Skeelz, 4, 8, 4, -, dod, 0, 0, -, U, 1400
+Dan, All_Stars, 3, 5, 3, -, -dam, 4, 4, -, C, 170
+Danae, Skeelz, 3, 7, 3, -, -atk, 10, 3, -, C, 400
+Dante, Piranas, 2, 6, 2, Confidence:, -lif, 3, 3, -, U, 300
+Darth, GHEIST, 3, 3, 6, -, pop, 0, 0, -, U, 300
+Dash, Junkz, 2, 6, 1, -, dod, 0, 0, -, R, 700
 Davina, All_Stars, 3, 6, 4, Protection:, bonus, 0, 0, -, U, 580
-Deea, Vortex, 3, 6, 5, -, +atk, 10, 0, -, U, 2500
+Dayton, Sentinel, 3, 7, 2, -, +dam, 3, 0, -, C, 1300
+Deadeye, Piranas, 3, 4, 6, -, -pow, 3, 4, -, R, 750
+Dean, La_Junta, 2, 6, 2, -, -pow, 3, 4, -, U, 650
+Deebler, Skeelz, 3, 6, 4, Confidence:, -dam, 4, 2, -, C, 285
+Denise, Rescue, 2, 4, 4, Courage:, -dam, 2, 2, -, C, 170
+Diego, La_Junta, 2, 2, 3, -, -, 0, 0, -, C, 165
+Dieter, Nightmare, 3, 6, 3, -, soa, 0, 0, -, C, 1000
 Ditha, Pussycats, 5, 7, 5, -, lpd, 1, 0, -, U, 2300
-Draheera, GHEIST, 4, 5, 6, Support:, +pow, 1, 0, -, R, 16500
-Drake, Skeelz, 3, 7, 4, Revenge:, +lif, 2, 0, -, C, 450
-Dregn, Vortex, 5, 8, 4, -, -lif, 4, 0, -, R, 48000
-Drorb, Vortex, 2, 8, 1, Stop:, +dam, 3, 0, -, C, 250
-Dudley Ld, Nightmare, 4, 7, 5, Defeat:, -lif, 2, 1, -, L, 0
+Diyo Cr, Freaks, 3, 4, 7, -, -, 0, 0, -, C, 24000
+Dolly, GHEIST, 3, 7, 2, -, poi, 2, 1, -, C, 220
+Dolores Boss, Pussycats, 3, 5, 5, -, -atk, 5, 2, -, C, 600
+Don, Montana, 5, 6, 8, -, -atk, 4, 2, -, U, 1300
+Donnie, Montana, 4, 7, 5, Revenge:, -lif, 2, 1, -, U, 1250
+Dorian, Uppers, 5, 8, 7, -, -, 0, 0, Temp., U, 7400
+Dr Saw, GHEIST, 4, 6, 4, -, lpd, 1, 0, -, C, 950
+Dragan Cr, Sentinel, 4, 4, 7, -, +pow, 3, 0, -, R, 345000
+Dreen, Junkz, 2, 5, 3, -, -pow, 3, 4, -, U, 180
+Dwain Cr, Nightmare, 2, 3, 3, -, -pow, 2, 3, -, C, 45000
 Dwan, Skeelz, 5, 7, 6, -, -dam, 4, 1, -, C, 830
-Ector, Piranas, 3, 7, 2, -, -lif, 4, 3, -, C, 230
+Eadh, Nightmare, 2, 6, 3, -, -pow, 2, 5, -, C, 1200
 Ed 12, La_Junta, 5, 6, 7, -, +pow, 2, 0, -, U, 1550
-Eduardo, Jungo, 5, 7, 6, -, +lif, 2, 0, -, R, 1200
-Elke, GHEIST, 2, 6, 3, Defeat:, -pil, 1, 2, -, U, 220
-Eloxia, Skeelz, 5, 7, 7, Defeat:, poi, 1, 0, -, R, 12100
-Embolt, Sakrohm, 2, 6, 2, Defeat:, -lif, 1, 1, -, C, 1100
-Essie, All_Stars, 5, 7, 5, Revenge:, +pow, 3, 0, -, U, 3400
+Edd, Montana, 4, 7, 5, Courage:, sob, 0, 0, -, R, 1900
+Effie, Pussycats, 2, 6, 2, -, dod, 0, 0, -, U, 280
+Eklore, Leader, 5, 7, 7, -, -ppr, 0, 0, -, R, 13000
+El Gringo, All_Stars, 5, 6, 7, -, -pow, 2, 6, -, U, 1200
+Elea, Jungo, 2, 6, 2, Stop:, +pow, 3, 0, -, R, 1300
+Elixir, Nightmare, 3, 3, 5, -, -, 0, 0, -, C, 125
+Ella, Pussycats, 2, 5, 2, -, -dam, 2, 4, -, C, 750
+Elliott, Uppers, 2, 4, 3, -, -, 0, 0, -, C, 130
+Elly Mae, Pussycats, 4, 8, 3, Courage:, +dam, 3, 0, -, R, 900
+Elvira, Rescue, 3, 6, 4, -, soa, 0, 0, -, R, 3200
+Elya Cr, Fang_Pi_Clang, 3, 3, 5, Courage:, +pow, 5, 0, -, R, 121000
+Emeth, La_Junta, 5, 7, 6, Support:, +atk, 5, 0, -, U, 8250
+Emma, Pussycats, 5, 7, 6, Courage:, +atk, 12, 0, -, C, 1350
+Endo, Fang_Pi_Clang, 3, 6, 3, -, -, 0, 0, -, C, 230
+Endora, Nightmare, 3, 4, 4, -, -, 0, 0, -, C, 280
+Enzo, Montana, 5, 8, 5, -, poi, 1, 5, -, R, 2700
+Erika, GHEIST, 4, 5, 6, -, -, 0, 0, -, R, 750
+Eris, Sakrohm, 5, 7, 7, Courage:, +lif, 2, 0, -, R, 1200
+Erpeto, Freaks, 5, 6, 7, Courage:, +pow, 3, 0, -, C, 1350
+Erzsebet, Nightmare, 3, 6, 3, -, -pow, 2, 4, -, C, 190
+Esmeralda, Freaks, 2, 6, 2, -, +atk, 10, 0, -, U, 720
+Estalt, Nightmare, 5, 5, 8, -, -pow, 3, 5, -, U, 970
+Eve, Freaks, 5, 7, 5, -, -atk, 10, 5, -, U, 680
+Eyrik, Leader, 5, 8, 5, Team:, -pow, 1, 5, -, R, 4200
+Eyrton, All_Stars, 5, 8, 5, -, -, 0, 0, -, C, 620
+Fabio, Montana, 5, 7, 6, -, -pow, 2, 6, -, U, 1200
+Feelyn, Pussycats, 2, 5, 3, -, -pow, 2, 3, -, U, 350
+Fei, Fang_Pi_Clang, 4, 8, 4, -, -pow, 4, 6, -, R, 2900
 Ficcanaso, Montana, 2, 6, 2, Revenge:, -lif, 3, 2, -, U, 750
-Galen, Vortex, 3, 5, 5, -, pop, 0, 0, -, C, 1500
-Garrik, Bangers, 3, 6, 3, -, +dam, 3, 0, -, U, 740
-Gertjan, Roots, 3, 6, 4, Support:, +atk, 4, 0, -, C, 380
-Gianfranco, Montana, 3, 7, 4, Protection:, bonus, 0, 0, -, R, 3300
+Fifty, Bangers, 5, 5, 7, -, soa, 0, 0, -, U, 750
+Filomena, Montana, 2, 6, 1, Courage:, +dam, 4, 0, -, U, 330
+Flavio Cr, La_Junta, 3, 1, 8, -, -, 0, 0, -, C, 470000
+Flesh Pimp, Montana, 4, 2, 8, -, -atk, 5, 2, -, U, 470
+Flo, All_Stars, 2, 5, 2, -, sob, 0, 0, -, U, 350
+Flyer, Junkz, 3, 6, 3, -, -, 0, 0, -, C, 240
+Frank, All_Stars, 2, 2, 6, -, -atk, 6, 2, -, C, 190
+Frankie Hi, Uppers, 3, 6, 4, -, -atk, 3, 3, -, U, 320
+Frida, Rescue, 2, 3, 4, Courage:, +pow, 3, 0, -, C, 165
+Fuzz, Junkz, 5, 6, 8, -, soa, 0, 0, -, R, 1500
+Gabrielle, Ulu_Watu, 2, 5, 3, -, -dam, 2, 1, -, U, 3800
+Gaia, Ulu_Watu, 3, 7, 4, -, -atk, 3, 1, -, R, 1900
+Gaia Noel, Ulu_Watu, 3, 5, 5, -, -atk, 3, 1, -, U, 900
+Gary, Montana, 5, 5, 4, -, dod, 0, 0, -, C, 250
+Gastroboy, Sakrohm, 4, 4, 7, -, -, 0, 0, -, U, 450
+Gatline, La_Junta, 4, 7, 5, -, +atk, 8, 0, -, U, 1200
+General Cr, La_Junta, 5, 7, 8, -, soa, 0, 0, Perm., U, 8000000
+George, Ulu_Watu, 3, 7, 3, -, +lif, 2, 0, -, U, 450
+Gertrud, La_Junta, 4, 6, 6, -, sob, 0, 0, -, R, 1800
+Geuner Cr, Freaks, 2, 4, 3, -, +dam, 2, 0, -, C, 22000
+Gheistling, GHEIST, 3, 5, 3, -, poi, 1, 1, -, C, 180
+Ghoub, Rescue, 4, 6, 7, -, -, 0, 0, -, C, 500
+Ghumbo, Nightmare, 5, 7, 7, -, -atk, 10, 7, -, U, 9000
+Gibson, Junkz, 4, 8, 4, -, sob, 0, 0, -, C, 2100
+Gil, Junkz, 2, 7, 2, -, -pil, 3, 4, -, U, 11100
+Gina Glitt, Uppers, 3, 1, 8, -, -dam, 4, 2, -, C, 480
+Giovanni, Montana, 3, 5, 6, -, -, 0, 0, -, U, 340
 Glenn, Uppers, 5, 7, 6, -, -lif, 3, 3, -, U, 600
+Globumm, Sakrohm, 2, 2, 3, -, sob, 0, 0, -, C, 130
+Glorg, Nightmare, 4, 6, 6, -, soa, 0, 0, -, U, 7500
+Glosh, Rescue, 4, 6, 6, Stop:, +pow, 3, 0, -, U, 1100
+Goldie, Piranas, 3, 5, 4, -, -atk, 8, 2, -, C, 360
+Graff, Bangers, 2, 6, 2, -, soa, 0, 0, -, R, 1300
+Graksmxxt, Sakrohm, 4, 8, 5, -, -dam, 5, 1, Perm., R, 9500
+Gran Vista, Piranas, 2, 4, 3, -, -pow, 2, 3, -, C, 160
+Graziella, Freaks, 2, 5, 2, -, sob, 0, 0, -, C, 200
+Greem, Skeelz, 4, 7, 4, -, poi, 3, 2, -, U, 1200
+Greesh, Piranas, 3, 6, 4, -, poi, 2, 2, -, U, 380
+Greow, Jungo, 4, 7, 5, Stop:, +pow, 3, 0, -, R, 3700
+Griezzo, Montana, 4, 5, 8, -, +atk, 3, 0, -, U, 2450
+Grudj, Freaks, 4, 8, 4, -, +pil, 2, 0, -, R, 1550
+Guru Cr, Sakrohm, 5, 8, 7, -, sob, 0, 0, Perm., U, 5000000
+Gwen, Pussycats, 3, 7, 3, -, -, 0, 0, -, C, 280
+Gyro, Bangers, 2, 5, 1, -, +dam, 4, 0, -, U, 400
+Halley, Sakrohm, 2, 4, 2, -, -, 0, 0, -, C, 140
+Hammer, All_Stars, 5, 6, 7, Courage:, +dam, 2, 0, -, U, 2600
 Harleen, Freaks, 2, 7, 2, -, -lif, 2, 1, -, U, 310
-Harold, Uppers, 3, 7, 4, Confidence:, -pow, 1, 1, -, U, 900
+Hattori, Fang_Pi_Clang, 5, 8, 5, Courage:, -dam, 4, 2, -, R, 4600
+Havok, Sentinel, 5, 6, 7, -, -pow, 2, 1, -, R, 2500
+Hawk, Sentinel, 5, 8, 6, -, soa, 0, 0, Perm., R, 4200
+Hawkins, Piranas, 2, 7, 2, -, -pil, 2, 1, -, U, 7600
 Hawkins Noel, Piranas, 2, 7, 1, -, +pil, 2, 0, -, C, 130
-Haze, Junkz, 5, 6, 7, -, -pow, 3, 5, -, U, 4400
-Heegrn, Vortex, 4, 6, 7, Protection:, bonus, 0, 0, -, R, 2200
-Herman, Uppers, 5, 5, 8, -, -pow, 3, 4, -, R, 3200
+Hax, Rescue, 5, 7, 5, Courage:, +pow, 3, 0, -, U, 5500
+Haze, Junkz, 5, 6, 7, -, -pow, 3, 5, -, U, 20000
+Hel, Nightmare, 2, 6, 2, -, lpd, 1, 0, -, C, 850
+Hikiyousan, Ulu_Watu, 5, 8, 5, -, +dam, 2, 0, -, U, 8700
+Hugo, Leader, 5, 7, 5, Team:, +atk, 6, 0, Temp., R, 360
+Hula, Freaks, 2, 7, 1, -, poi, 2, 3, -, R, 780
 Hystrix, Jungo, 3, 7, 3, -, poi, 1, 0, -, R, 2400
-Isatis, La_Junta, 4, 5, 6, Support:, +pow, 1, 0, -, C, 750
-Izsobahd, Vortex, 3, 8, 3, Stop:, -pil, 3, 1, -, C, 1300
-Janice, Ulu_Watu, 3, 6, 5, Stop:, +pow, 3, 0, -, C, 750
+Ice jim, Ulu_Watu, 3, 6, 3, -, soa, 0, 0, -, C, 250
+Ielena, Nightmare, 5, 8, 3, -, lpd, 1, 0, -, R, 2350
+Igniss, GHEIST, 3, 4, 1, -, dod, 0, 0, -, U, 280
+Ingsthra, Sakrohm, 3, 4, 2, -, lpd, 1, 0, -, C, 180
+Ironfield, Freaks, 3, 7, 2, -, dod, 0, 0, -, C, 350
+Jackie, Uppers, 4, 8, 6, -, soa, 0, 0, Perm., R, 21000
+Jalil, Jungo, 3, 7, 3, -, -lif, 2, 1, -, C, 2300
+Jane Ramba, La_Junta, 3, 7, 4, -, -dam, 2, 1, -, U, 5300
+Janine, Uppers, 3, 6, 2, -, lpd, 1, 0, -, U, 300
 Jautya, Sakrohm, 4, 7, 4, -, lpd, 1, 0, -, R, 1450
-Jessica, Skeelz, 2, 4, 4, -, pop, 0, 0, -, C, 440
+Jay, Skeelz, 4, 7, 5, Revenge:, +dam, 4, 0, -, R, 11500
+Jeena, Roots, 3, 5, 5, -, -dam, 4, 2, -, R, 1000
+Jeeves, Uppers, 5, 6, 8, -, -, 0, 0, -, U, 2100
+Jeff, Ulu_Watu, 2, 2, 2, -, +pow, 5, 0, -, C, 130
+Jenny, Bangers, 3, 5, 3, -, -, 0, 0, -, C, 170
+Jerry, Roots, 3, 5, 5, -, -pow, 2, 4, -, U, 350
+Jessica, Skeelz, 2, 4, 4, -, pop, 0, 0, -, C, 700
+Jessie, All_Stars, 2, 7, 2, -, +lif, 2, 0, Temp., R, 2600
 Jeto, Roots, 2, 7, 2, -, -atk, 4, 1, -, C, 120
-Jiro, Junkz, 3, 7, 4, Confidence:, +pow, 2, 0, -, R, 3500
-Jonas, Uppers, 2, 5, 3, Confidence:, +pow, 2, 0, -, U, 1400
-Kamakura, Sentinel, 4, 6, 6, Confidence:, +pow, 2, 0, -, R, 3700
-Katja, Sentinel, 3, 5, 3, Courage:, +pow, 4, 0, -, C, 350
-Kevlaer, Bangers, 2, 7, 2, Protection:, bonus, 0, 0, -, C, 1100
-Kobalth, Vortex, 3, 6, 4, -, sob, 0, 0, -, R, 3000
+Jeyn, Pussycats, 4, 7, 4, -, -lif, 3, 4, -, C, 280
+Jim Cr, Uppers, 4, 4, 6, -, pop, 0, 0, -, C, 58000
+Joana, Rescue, 3, 5, 5, -, pop, 0, 0, -, C, 200
+Joao, Ulu_Watu, 3, 6, 1, -, dod, 0, 0, -, R, 800
+Jody, Uppers, 4, 6, 6, Confidence:, -dam, 3, 3, -, C, 300
+John, Sentinel, 3, 5, 4, Support:, +pow, 1, 0, -, U, 1100
+Josh, Sentinel, 3, 3, 6, -, sob, 0, 0, -, U, 420
+Juicy Lord, Bangers, 3, 6, 4, -, -dam, 2, 2, -, U, 3900
+K Cube, Nightmare, 2, 5, 2, -, +dam, 2, 0, -, U, 220
+Kang, All_Stars, 3, 6, 4, -, -atk, 6, 5, -, C, 740
+Katan, Piranas, 4, 6, 6, -, +pil, 2, 0, -, R, 2500
+Kati, Fang_Pi_Clang, 4, 7, 4, -, soa, 0, 0, -, U, 700
+Katsuhkay, All_Stars, 3, 2, 5, Courage:, +pow, 2, 0, -, C, 290
+Kawan, Junkz, 4, 6, 7, -, -, 0, 0, -, U, 500
+Keanew, Junkz, 3, 6, 4, -, -atk, 6, 3, -, C, 730
+Kenny, Nightmare, 4, 6, 3, -, lpd, 2, 0, -, R, 12000
+Kerozinn Cr, Fang_Pi_Clang, 5, 8, 6, -, -pow, 1, 5, -, U, 95000
+Kerry, Rescue, 4, 6, 6, Courage:, sob, 0, 0, -, R, 7600
+Kevin, Bangers, 3, 5, 3, -, poi, 1, 2, -, C, 160
+Kharl, Freaks, 3, 5, 5, -, -, 0, 0, -, C, 180
+Kiki, Roots, 5, 4, 8, -, +pow, 3, 0, -, R, 1700
+Kiki Cr, Roots, 5, 8, 8, -, -atk, 4, 1, Perm., R, 8000000
+Kimberley, All_Stars, 3, 3, 5, -, -, 0, 0, -, C, 150
+Kinjo, Fang_Pi_Clang, 5, 6, 5, -, +dam, 3, 0, -, U, 2100
+Kirk, Ulu_Watu, 3, 7, 3, -, -dam, 3, 3, -, C, 800
+Klaus, Sentinel, 2, 3, 5, -, -dam, 4, 4, -, C, 250
+Kluwn, Bangers, 3, 5, 5, -, -pow, 2, 5, -, U, 530
+Kolos, Nightmare, 5, 7, 4, -, +dam, 6, 0, Perm., R, 23000
 Krash, Rescue, 2, 7, 1, -, +lif, 2, 0, -, C, 400
-Kreenk Ld, Bangers, 3, 7, 2, -, dod, 0, 0, -, L, 0
-Krung, Vortex, 4, 7, 4, Confidence:, +pow, 3, 0, -, R, 2200
-Kyle, Sentinel, 2, 7, 2, Stop:, +dam, 3, 0, -, U, 250
-Lehrg, Vortex, 4, 6, 6, Revenge:, -pow, 2, 4, -, C, 500
-Lothar, Rescue, 2, 3, 5, -, -pow, 3, 4, -, U, 220
-Lovhak, Vortex, 4, 8, 5, -, -, 0, 0, -, U, 1400
-Magda, Freaks, 2, 5, 3, -, -pow, 3, 3, -, C, 1100
+Kreen, Jungo, 5, 7, 5, Stop:, lpd, 1, 0, -, R, 4700
+Kristin, Piranas, 4, 7, 5, Confidence:, soa, 0, 0, -, C, 270
+Kuei, Fang_Pi_Clang, 5, 8, 6, Revenge:, sob, 0, 0, -, R, 2900
+Laetitia, Bangers, 4, 4, 6, -, pop, 0, 0, -, U, 400
+Lamar Cr, All_Stars, 5, 6, 8, -, sob, 0, 0, Perm., R, 120000
+Lao Cr, Fang_Pi_Clang, 5, 5, 8, -, sob, 0, 0, -, C, 500000
+Larry, Rescue, 2, 3, 3, Support:, +pow, 1, 0, -, C, 360
+Lea, Rescue, 2, 6, 2, -, sob, 0, 0, -, U, 1350
+Lehane, Sentinel, 2, 8, 2, -, sob, 0, 0, -, U, 1400
+Leila, Bangers, 3, 4, 7, -, -, 0, 0, -, R, 690
+Lennox, Bangers, 5, 6, 6, -, +dam, 3, 0, -, U, 1200
+Leo, La_Junta, 3, 5, 4, -, -dam, 2, 2, -, C, 125
+Leviatonn, GHEIST, 3, 6, 5, -, sob, 0, 0, -, R, 9000
+Lewis, All_Stars, 3, 7, 3, -, -, 0, 0, -, C, 430
+Liam, Skeelz, 2, 6, 3, -, soa, 0, 0, -, C, 220
+Lihoi Chun, Fang_Pi_Clang, 2, 4, 3, -, -, 0, 0, -, C, 180
+Lilith, GHEIST, 3, 5, 4, -, -, 0, 0, -, C, 170
+Lilly, Roots, 4, 6, 6, -, -pow, 1, 1, -, U, 1200
+Lin Bee, Ulu_Watu, 3, 7, 3, Courage:, soa, 0, 0, -, C, 240
+Lin Xia, GHEIST, 5, 7, 5, -, -lif, 4, 4, -, U, 5100
+Linda, Fang_Pi_Clang, 4, 8, 2, Courage:, +dam, 4, 0, -, R, 1900
+Lino Borsa, Montana, 3, 3, 4, -, -, 0, 0, -, C, 160
+Liu, All_Stars, 4, 5, 7, Courage:, sob, 0, 0, -, U, 2750
+Lobo, Rescue, 3, 5, 6, -, -, 0, 0, -, U, 550
+Lolly, Junkz, 3, 7, 3, -, -dam, 2, 1, -, C, 780
+Loma Noju, All_Stars, 4, 6, 4, -, lpd, 1, 0, -, R, 1700
+Loocio, Bangers, 3, 6, 4, -, +pow, 2, 0, -, C, 720
+Lost Hog, Fang_Pi_Clang, 5, 5, 8, -, -atk, 5, 5, -, C, 1900
+Lou, Roots, 5, 6, 8, -, +atk, 8, 0, -, U, 940
+Louise, Pussycats, 5, 6, 7, -, +pow, 3, 0, -, U, 4000
+Luba, GHEIST, 3, 7, 2, -, dod, 0, 0, -, C, 240
+Lucia, Ulu_Watu, 4, 6, 6, Stop:, +dam, 2, 0, -, R, 1180
+Ludmilla, GHEIST, 2, 6, 2, -, poi, 2, 4, -, C, 550
+Ludwig, Sakrohm, 3, 5, 5, -, soa, 0, 0, -, U, 400
+Luis, Sentinel, 3, 6, 3, -, soa, 0, 0, -, C, 300
+Lulabee, Ulu_Watu, 5, 7, 6, -, sob, 0, 0, -, R, 3400
+Lunatik, Sakrohm, 2, 6, 1, -, +dam, 3, 0, -, U, 330
+Lyse Teria Cr, Montana, 3, 8, 4, -, soa, 0, 0, Perm., U, 5600000
+MC Decay, Bangers, 2, 2, 4, -, -pow, 2, 1, -, C, 220
+Maamoon, Freaks, 4, 6, 6, -, sob, 0, 0, -, U, 380
+Mac Hen, Ulu_Watu, 3, 2, 5, -, -, 0, 0, -, C, 120
+Maciej, Freaks, 4, 7, 5, -, -pow, 3, 6, -, R, 1000
+Macumba, Fang_Pi_Clang, 4, 7, 5, -, -atk, 5, 5, -, R, 950
+Maeva, Uppers, 3, 3, 5, -, -, 0, 0, -, C, 150
+Malia, Sentinel, 4, 6, 6, Stop:, +lif, 3, 0, -, C, 670
+Malmoth, Junkz, 4, 7, 5, -, -atk, 5, 5, -, U, 1100
+Manfred, Skeelz, 4, 8, 4, Confidence:, lpd, 1, 0, -, U, 2000
+Manon Cr, Pussycats, 3, 2, 6, -, +pow, 4, 0, -, U, 2500000
+Marco, Rescue, 5, 5, 7, Support:, +pow, 1, 0, Perm., R, 4550
+Marina, All_Stars, 4, 7, 5, -, -dam, 3, 1, -, R, 7200
+Mario, All_Stars, 2, 6, 3, -, -, 0, 0, -, U, 350
+Mark, Rescue, 3, 6, 1, -, lpd, 2, 0, -, C, 690
+Marlysa Cr, Fang_Pi_Clang, 2, 7, 2, -, sob, 0, 0, -, R, 730000
+Masamu, La_Junta, 3, 3, 5, Support:, +pow, 1, 0, -, C, 680
 Massiv, Bangers, 2, 4, 4, -, pop, 0, 0, -, U, 1400
-Mawpin, Nightmare, 2, 5, 4, Revenge:, +pow, 3, 0, -, R, 2500
+Matthew, Roots, 4, 5, 2, -, dod, 0, 0, -, U, 380
+Mayhem, Piranas, 4, 5, 8, -, -, 0, 0, -, C, 760
+Meg, Pussycats, 3, 6, 3, -, +dam, 2, 0, -, R, 950
+Melissa Cr, Sentinel, 3, 3, 4, -, -, 0, 0, -, C, 150000
+Melluzine, Nightmare, 3, 3, 4, -, -atk, 5, 5, -, C, 120
+Melvin, Sentinel, 3, 6, 4, -, -dam, 3, 2, -, U, 4500
+Meroo, Bangers, 2, 5, 2, -, -, 0, 0, -, C, 430
+Methane, GHEIST, 4, 7, 5, -, +dam, 2, 0, -, R, 2000
+Meyen, GHEIST, 3, 7, 3, -, -, 0, 0, -, C, 180
+Mickey T, Uppers, 2, 3, 3, -, +atk, 8, 0, -, C, 600
+Miken Moose, Roots, 2, 6, 2, -, +atk, 8, 0, -, C, 320
+Mikki, All_Stars, 3, 3, 4, -, -, 0, 0, -, C, 160
+Milovan, Montana, 3, 6, 4, -, -lif, 2, 2, -, U, 500
+Milton, Skeelz, 2, 5, 3, Revenge:, -pow, 3, 1, -, C, 250
+Mindy, Jungo, 2, 7, 1, -, +atk, 10, 0, -, C, 1600
+Mini Mosu, Fang_Pi_Clang, 2, 2, 4, Courage:, +pow, 2, 0, -, C, 150
 Mini Mund, GHEIST, 3, 6, 4, Stop:, +pow, 3, 0, -, U, 350
-Miss Jessie, All_Stars, 2, 6, 1, Support:, +lif, 1, 0, -, U, 440
-Nahema, Jungo, 5, 6, 8, -, +pow, 2, 0, -, C, 1500
-Nahomi, La_Junta, 3, 7, 4, Stop:, +pow, 3, 0, -, U, 1900
-Neloe, Vortex, 2, 7, 2, -, -dam, 3, 3, -, U, 500
-Numar, Ulu_Watu, 4, 8, 4, -, +lif, 2, 0, -, R, 12500
-Oflgn, Vortex, 5, 7, 5, -, lpd, 1, 0, -, U, 4800
-Ojibway, Roots, 5, 7, 5, -, -lif, 6, 4, -, U, 1300
-Onyx, Vortex, 3, 6, 4, -, soa, 0, 0, -, C, 1200
-Orlando, Ulu_Watu, 2, 4, 4, Confidence:, -pow, 2, 1, -, C, 170
-Orlok, Nightmare, 3, 6, 4, Defeat:, -lif, 2, 5, -, C, 200
+Mira, Freaks, 3, 7, 4, Stop:, +pow, 3, 0, -, U, 400
+Miranda, Sentinel, 4, 7, 4, -, +dam, 2, 0, -, U, 1150
+Miss Chloe, Sentinel, 5, 5, 8, -, -dam, 4, 2, -, R, 1700
+Miss Lulabee, Ulu_Watu, 5, 7, 5, -, -pow, 2, 5, -, R, 1700
+Miss Ming, Freaks, 2, 3, 3, Courage:, +pow, 4, 0, -, U, 330
+Miss Twice Cr, GHEIST, 5, 8, 5, -, poi, 1, 1, -, U, 55000
+Mitch, La_Junta, 3, 5, 4, -, sob, 0, 0, -, C, 120
+Mo DiFalco, Uppers, 3, 4, 5, -, -, 0, 0, -, C, 150
+Mojo, Nightmare, 3, 6, 1, -, lpd, 2, 0, -, U, 200
+Molly, La_Junta, 2, 5, 1, Support:, +dam, 1, 0, -, U, 380
+Mona, Montana, 3, 6, 4, -, -pow, 2, 4, -, U, 8000
+Morlha, GHEIST, 2, 2, 4, -, sob, 0, 0, -, C, 180
+Morphun, Leader, 5, 8, 5, -, +ppr, 0, 0, -, R, 32000
+Mort Bax, Montana, 4, 4, 7, -, -, 0, 0, -, C, 135
+Murphy, Montana, 4, 4, 7, -, +pow, 2, 0, -, R, 1000
+Murray, Sakrohm, 3, 8, 2, -, +lif, 3, 0, -, C, 1100
+Muze, Pussycats, 3, 7, 3, -, poi, 2, 1, -, R, 1150
+Myke, La_Junta, 3, 4, 4, -, -pow, 2, 2, -, C, 120
+NDololo Cr, Roots, 4, 5, 6, -, -, 0, 0, -, U, 680000
+Na Boh, Sakrohm, 2, 5, 3, -, -dam, 3, 3, -, R, 780
+Naginata, La_Junta, 5, 8, 5, -, -pil, 5, 6, -, R, 2400
+Nahi Cr, Roots, 3, 7, 2, -, sob, 0, 0, -, C, 48500
+Nakata, Fang_Pi_Clang, 3, 8, 3, Stop:, +pow, 2, 0, -, U, 500
+Nanastasia, Freaks, 3, 5, 3, -, pop, 0, 0, -, C, 160
+Nanook, Ulu_Watu, 3, 8, 4, -, -, 0, 0, -, U, 1250
+Narendra, Roots, 3, 6, 4, -, -atk, 5, 5, -, C, 330
+Nata, Sakrohm, 3, 7, 3, Stop:, +dam, 3, 0, -, U, 390
+Natrang, Fang_Pi_Clang, 3, 4, 4, -, -, 0, 0, -, C, 160
+Naykee, Bangers, 3, 7, 3, Courage:, +atk, 7, 0, -, U, 400
+Nellie, Uppers, 4, 5, 6, -, -pow, 3, 4, -, R, 1500
+Nerfeniti, Nightmare, 3, 5, 6, -, -dam, 2, 3, -, R, 1000
+Niki, La_Junta, 2, 2, 2, Courage:, +pow, 4, 0, -, C, 160
+Nimestiec, Sakrohm, 2, 6, 2, -, -atk, 6, 3, -, C, 190
+Nina, GHEIST, 4, 6, 2, -, poi, 2, 1, -, U, 225
+Ninja Nyne, Pussycats, 4, 3, 8, -, -, 0, 0, -, C, 300
+Nistarok, Nightmare, 5, 8, 5, -, -dam, 5, 3, -, R, 3400
+Niva, Jungo, 4, 8, 4, Courage:, -dam, 4, 2, -, U, 8300
+No Nam, La_Junta, 5, 7, 7, -, -, 0, 0, -, C, 1450
+Nobrocybix, Junkz, 2, 1, 5, -, -, 0, 0, -, C, 300
+Nobrodroid, Junkz, 4, 6, 4, -, +pil, 4, 0, -, U, 4000
+Noemi, Pussycats, 3, 5, 5, -, -pow, 3, 3, -, R, 800
+Noodile, Roots, 3, 8, 4, -, -, 0, 0, -, C, 420
+Noon Steevens, Pussycats, 3, 6, 4, -, -, 0, 0, -, C, 180
+Nyema, Jungo, 3, 7, 3, -, lpd, 1, 0, -, R, 2000
+Nympheea, Ulu_Watu, 3, 2, 6, Courage:, +pow, 3, 0, -, U, 330
+Odile, Jungo, 3, 6, 4, -, +pow, 2, 0, -, C, 1340
+Ogoun Kyu, Roots, 2, 1, 6, -, -, 0, 0, -, C, 120
+Ojibway, Roots, 5, 7, 5, -, -lif, 6, 4, -, U, 2000
+Olga, Freaks, 3, 8, 3, -, -pow, 2, 5, -, R, 2350
+Olga Noel, Freaks, 3, 6, 3, -, +pow, 3, 0, -, U, 450
+Ombre Cr, Nightmare, 4, 7, 5, -, -, 0, 0, -, U, 83000
+Ongh, Jungo, 5, 8, 6, -, -pow, 3, 6, -, U, 20000
+Onik, Junkz, 3, 8, 2, Courage:, +dam, 3, 0, -, U, 600
+Oren, Freaks, 5, 7, 6, -, +lif, 3, 0, -, U, 950
+Oryon, Sakrohm, 3, 2, 6, -, -, 0, 0, -, C, 150
+Oscar, Montana, 3, 5, 4, Support:, +pow, 1, 0, -, U, 770
 Oshitsune, Nightmare, 4, 4, 7, -, -pow, 4, 3, -, R, 5200
+Otakool, Junkz, 3, 6, 4, -, soa, 0, 0, -, U, 430
+Otome, Fang_Pi_Clang, 3, 3, 5, -, -, 0, 0, -, C, 150
+Ottavia, Montana, 3, 7, 3, -, -dam, 2, 2, -, C, 1200
 Owen, Sentinel, 5, 7, 5, -, -lif, 4, 2, -, U, 2650
+Oxen, Uppers, 3, 7, 3, -, -lif, 3, 5, -, U, 900
+Oyoh, All_Stars, 5, 7, 7, -, -, 0, 0, -, R, 1650
+Page Cr, Roots, 2, 3, 5, -, -, 0, 0, -, C, 23000
+Pam, Rescue, 3, 4, 5, Support:, +atk, 2, 0, -, U, 400
 Pan, Nightmare, 3, 7, 3, -, +lif, 3, 0, -, R, 2650
-Pesth, Piranas, 5, 7, 6, -, poi, 1, 0, -, R, 2500
-Pieter, Sakrohm, 4, 6, 5, Revenge:, +dam, 3, 0, -, U, 350
-Piotr, Freaks, 3, 7, 2, -, -lif, 3, 0, -, R, 1500
+Peeler, Junkz, 5, 7, 7, -, -dam, 4, 3, -, U, 5400
+Pegh, Jungo, 2, 7, 1, -, -dam, 3, 2, -, U, 2000
+Perle, Junkz, 5, 7, 3, -, lpd, 1, 0, -, R, 1400
+Petra, Sakrohm, 4, 7, 5, -, sob, 0, 0, -, U, 2800
+Phonos, Sakrohm, 5, 7, 2, -, dod, 0, 0, -, U, 400
+Phyllis, Nightmare, 2, 7, 1, -, -lif, 3, 4, -, U, 5700
+Pino, Montana, 2, 6, 2, -, -, 0, 0, -, C, 165
+Piotr, Freaks, 3, 7, 2, -, -lif, 3, 0, -, R, 6500
+Platinum, GHEIST, 2, 4, 3, -, -pow, 3, 1, -, C, 210
+Platoona, Bangers, 4, 7, 5, -, -, 0, 0, -, C, 470
 Praxie, Skeelz, 3, 8, 1, -, -lif, 3, 0, -, U, 6000
-Puff, Piranas, 2, 5, 2, Support:, +pow, 4, 0, -, C, 220
-Qubik, Junkz, 4, 7, 5, -, soa, 0, 0, -, R, 5000
-Ray, La_Junta, 5, 8, 6, Revenge:, +atk, 8, 0, -, R, 10000
-Rodney, Jungo, 3, 7, 3, -, +atk, 10, 0, -, U, 1200
-Ronald, Jungo, 4, 6, 6, -, sob, 0, 0, -, U, 1800
-Saho, Skeelz, 3, 6, 4, -, -pil, 2, 4, -, U, 350
-Sayura, Fang_Pi_Clang, 3, 6, 5, -, +atk, 8, 0, -, C, 180
-Scott Ld, Rescue, 4, 7, 4, -, -dam, 2, 2, -, L, 0
-Selina, Pussycats, 5, 8, 6, Defeat:, pret, 1, 2, -, R, 5000
+Prince Jr, Montana, 2, 5, 3, -, -pow, 2, 4, -, C, 1200
+Psylo, Jungo, 4, 7, 4, -, soa, 0, 0, -, U, 1380
+Pulsar, Sakrohm, 3, 2, 7, -, -, 0, 0, -, C, 170
+Python, La_Junta, 5, 3, 7, -, pop, 0, 0, -, R, 1100
+Radek, Jungo, 3, 7, 3, -, -pow, 2, 4, -, C, 340
+Randy, All_Stars, 3, 5, 6, -, pop, 0, 0, -, U, 560
+Rass, Ulu_Watu, 3, 5, 4, -, sob, 0, 0, -, R, 750
+Rass Cr, Ulu_Watu, 3, 4, 4, -, -, 0, 0, -, C, 480000
+Ratanah, Roots, 4, 8, 5, -, -atk, 4, 4, Perm., U, 2900
+Razor, Ulu_Watu, 4, 4, 6, -, -, 0, 0, -, C, 200
+Rebecca, Sentinel, 2, 6, 3, -, -, 0, 0, -, C, 120
+Redra, Skeelz, 2, 6, 2, -, -dam, 3, 2, -, U, 540
+Rei, Fang_Pi_Clang, 3, 5, 4, -, +pow, 3, 0, -, R, 1100
+Reine Cr, Sakrohm, 5, 5, 8, -, -, 0, 0, -, U, 77000
+Rhed, Piranas, 3, 6, 3, -, +lif, 3, 0, -, R, 1150
+Ricardo, Montana, 2, 4, 3, -, -dam, 3, 4, -, C, 120
+Rick, Sentinel, 2, 6, 1, Support:, +dam, 1, 0, -, U, 500
+Rico, Roots, 3, 7, 4, -, -atk, 6, 4, -, U, 400
+Robb, All_Stars, 3, 5, 4, -, -pow, 3, 4, -, R, 1700
+Robin, Sentinel, 3, 1, 7, -, +pow, 2, 0, -, C, 110
+Rolph, GHEIST, 5, 7, 6, -, -pow, 2, 4, -, R, 2500
+Rosa, Montana, 4, 6, 6, -, poi, 1, 1, -, R, 1200
+Rowdy, Junkz, 4, 6, 6, -, +atk, 12, 0, -, R, 9500
+Rubie, Uppers, 3, 5, 6, -, soa, 0, 0, -, R, 2300
+Ryuichi, Fang_Pi_Clang, 4, 6, 7, Courage:, sob, 0, 0, -, U, 4500
+Saddy, Bangers, 3, 5, 5, -, sob, 0, 0, -, R, 800
+Sai San, Fang_Pi_Clang, 4, 3, 8, -, -dam, 1, 3, -, U, 380
+Sakazuki, Fang_Pi_Clang, 2, 6, 2, -, +dam, 2, 0, -, C, 700
+Sakura, Pussycats, 3, 2, 6, -, +atk, 8, 0, -, U, 220
+Samantha, Uppers, 2, 5, 2, -, sob, 0, 0, -, C, 280
+Sandro, Skeelz, 3, 6, 4, Support:, +pow, 1, 0, -, C, 300
+Sandy, Ulu_Watu, 2, 2, 4, -, -, 0, 0, -, C, 160
+Sargh, Nightmare, 3, 7, 3, -, -atk, 7, 3, -, C, 210
+Sasha, Skeelz, 2, 7, 2, Support:, +atk, 4, 0, -, R, 2450
+Sayura, Fang_Pi_Clang, 3, 6, 5, -, +atk, 8, 0, -, C, 800
+Scarlett Cr, Pussycats, 3, 4, 3, -, +dam, 4, 0, -, U, 1900000
+Scopica, Jungo, 3, 8, 2, -, +lif, 2, 0, -, U, 3000
+Scotty, Jungo, 4, 7, 5, Stop:, +dam, 3, 0, -, R, 1700
+Scubb, Piranas, 4, 6, 5, Support:, +pil, 1, 0, -, R, 1600
+Seldnor Cr, Fang_Pi_Clang, 3, 5, 2, -, lpd, 1, 0, -, C, 24000
 Selma, Piranas, 5, 7, 7, -, +pil, 2, 0, -, U, 3500
-Sentogan, Junkz, 2, 7, 1, -, +lif, 2, 0, -, C, 1300
-Serena, Ulu_Watu, 5, 8, 6, Protection:, bonus, 0, 0, -, R, 5200
-Shaakarti, Vortex, 5, 7, 7, Courage:, sob, 0, 0, -, R, 40000
-Sigma, Sakrohm, 3, 8, 1, -, poi, 4, 4, -, U, 4000
+Selsya Cr, GHEIST, 2, 1, 4, -, pop, 0, 0, -, C, 54000
+Shakra, Roots, 5, 8, 6, Courage:, sob, 0, 0, Temp., U, 5500
+Shann, Bangers, 5, 7, 6, Support:, +pil, 1, 0, -, U, 2650
+Sharon, Montana, 3, 7, 3, -, +dam, 2, 0, -, U, 550
+Shawoman Cr, Pussycats, 3, 2, 6, -, -, 0, 0, -, C, 660000
+Shayna, Ulu_Watu, 4, 6, 5, Courage:, +pow, 3, 0, -, U, 5500
+Sheitane, Nightmare, 2, 6, 1, -, poi, 2, 1, -, U, 1500
+Shogunn, Bangers, 4, 7, 4, -, +dam, 3, 0, -, R, 3600
+Sigmund Cr, GHEIST, 4, 2, 8, -, -dam, 5, 3, -, U, 215000
+Simon, Montana, 3, 5, 4, -, soa, 0, 0, -, C, 125
 Sireen, Junkz, 4, 6, 6, -, pop, 0, 0, -, U, 360
+Skiner, Sentinel, 3, 4, 5, -, +atk, 12, 0, -, C, 1250
+SkrumxxT, Sakrohm, 5, 8, 3, -, +dam, 5, 0, -, R, 3900
+Skullface Cr, Sentinel, 3, 2, 5, Courage:, +pow, 2, 0, -, C, 51000
+Sleam, Bangers, 4, 3, 7, Courage:, +pow, 4, 0, -, U, 770
+Sledg, Rescue, 5, 7, 7, Protection:, bonus, 0, 0, -, C, 2000
+Sliman, Piranas, 5, 5, 8, -, -pow, 4, 5, -, C, 400
+Slopsh, Sakrohm, 4, 6, 7, -, pop, 0, 0, -, R, 1250
+Slyde, Rescue, 3, 5, 4, -, -dam, 3, 1, -, C, 350
+Smokey Cr, Piranas, 3, 7, 3, -, +pil, 3, 0, Temp., C, 20000
 Sol Hona, Sakrohm, 5, 6, 8, -, -pow, 2, 6, -, C, 650
-Spudd, All_Stars, 4, 7, 4, -, -atk, 8, 5, -, C, 350
-Stacey, All_Stars, 2, 6, 2, -, +pow, 2, 0, -, U, 4000
+Somba, Jungo, 2, 5, 3, -, pop, 0, 0, -, C, 1000
+Soushee, Freaks, 2, 6, 1, -, -dam, 3, 3, -, C, 500
+Spiaghi, Montana, 2, 7, 1, -, -dam, 3, 1, -, C, 1200
+Splata Cr, Freaks, 5, 8, 5, -, soa, 0, 0, -, R, 115000
+Spycee, Piranas, 2, 5, 2, -, soa, 0, 0, -, U, 225
+Stanford, Uppers, 3, 4, 5, -, pop, 0, 0, -, C, 630
 Stanly, Ulu_Watu, 5, 6, 8, Confidence:, +atk, 12, 0, -, C, 730
-Sunder, Vortex, 3, 7, 3, -, -lif, 3, 3, -, C, 350
-Taljion, Piranas, 3, 6, 4, Support:, +atk, 3, 0, -, U, 3800
-Thormund, La_Junta, 2, 7, 1, Support:, +pow, 1, 0, -, R, 1380
-Tino, Montana, 5, 6, 7, Defeat:, -lif, 3, 3, -, C, 600
+Steve, Rescue, 2, 5, 3, -, -dam, 2, 1, -, R, 4400
+Sting, Piranas, 4, 7, 4, Courage:, +pow, 3, 0, -, U, 850
+Striker, All_Stars, 4, 6, 6, -, soa, 0, 0, Temp., U, 9200
+Strynge, GHEIST, 3, 3, 5, -, -pow, 4, 3, -, C, 160
+Sum Sam Cr, Bangers, 5, 6, 8, -, -, 0, 0, -, C, 1000000
+Sung Tsu, Fang_Pi_Clang, 5, 7, 7, Stop:, +pow, 2, 0, -, U, 1700
+Sunnygoat, Roots, 3, 2, 6, -, -, 0, 0, -, C, 120
+Suzie, Rescue, 4, 7, 2, Support:, +lif, 1, 0, -, C, 770
+Svelthlana, Pussycats, 3, 2, 4, -, pop, 0, 0, -, C, 200
+Swidz Cr, Sentinel, 4, 6, 3, -, poi, 3, 5, -, U, 31000
+Syd Noze, Bangers, 3, 3, 5, -, -, 0, 0, -, C, 220
+Sydney, Uppers, 5, 7, 3, -, poi, 2, 2, -, U, 600
+Sylth, Jungo, 4, 8, 2, -, poi, 3, 1, Temp., U, 20000
+Tafa, Ulu_Watu, 3, 3, 5, -, sob, 0, 0, -, C, 160
+Taham, Junkz, 5, 8, 5, -, +pil, 2, 0, -, R, 4200
+Taigo, Ulu_Watu, 2, 6, 2, -, -atk, 8, 3, -, U, 300
+Taljion, Piranas, 3, 6, 4, Support:, +atk, 3, 0, -, U, 4000
+Tamy, Junkz, 3, 6, 5, -, -, 0, 0, -, C, 530
+Tanaereva, Ulu_Watu, 5, 8, 7, -, -dam, 2, 2, Perm., U, 35500
+Tania, Pussycats, 3, 2, 6, -, sob, 0, 0, -, C, 220
+Tank, La_Junta, 3, 6, 3, -, soa, 0, 0, -, U, 560
+Tanner, Rescue, 3, 6, 1, -, dod, 0, 0, -, U, 500
+Tatane, Fang_Pi_Clang, 3, 3, 5, -, -, 0, 0, -, C, 150
+Terry Cr, All_Stars, 2, 2, 4, -, -, 0, 0, -, C, 3800
+Tessa Cr, Sentinel, 5, 7, 6, -, +atk, 7, 0, -, R, 175000
+Thaumaturge Cr, Nightmare, 3, 4, 3, -, -dam, 2, 2, -, C, 56000
+Thomson, Sakrohm, 3, 6, 3, -, poi, 1, 5, -, C, 220
+Thormund, La_Junta, 2, 7, 1, Support:, +pow, 1, 0, -, R, 1850
+Timber, Leader, 5, 6, 6, Team:, +dam, 1, 0, -, R, 150
+Timmy, Nightmare, 3, 7, 2, -, poi, 2, 4, -, R, 900
+Titus, Freaks, 3, 4, 4, -, +pow, 4, 0, -, C, 770
+Tobbie, Sentinel, 2, 4, 4, -, -pow, 4, 4, -, C, 220
+Tomas, Skeelz, 5, 8, 6, -, sob, 0, 0, -, R, 5700
+Toro, GHEIST, 4, 6, 5, -, -pow, 3, 4, -, U, 7000
 Tremorh, Junkz, 3, 7, 4, -, -pil, 2, 1, -, R, 2000
-Tsubame, Fang_Pi_Clang, 5, 7, 7, Defeat:, pret, 2, 3, -, R, 14500
-Tsubame, Fang_Pi_Clang, 4, 7, 4, -, pret, 1, 2, -, R, 14500
+Trey, Piranas, 2, 5, 1, -, +pil, 4, 0, -, C, 770
+TrinmkkT, Sakrohm, 4, 6, 6, -, -dam, 4, 3, -, U, 670
+Trish, La_Junta, 3, 5, 5, -, -pow, 3, 1, -, R, 2850
+Tshern, Roots, 4, 7, 4, -, poi, 3, 5, -, U, 370
+Tula, Piranas, 2, 3, 4, -, -pow, 4, 2, -, C, 940
+Tunned, Bangers, 3, 3, 4, -, -, 0, 0, -, C, 150
+Twyh, Freaks, 3, 5, 2, -, +lif, 5, 0, -, U, 390
+Tyd, Piranas, 3, 8, 4, -, -, 0, 0, -, C, 1250
+Tyler, Uppers, 5, 6, 5, -, +dam, 3, 0, -, R, 1200
 Ulrich, Piranas, 3, 5, 5, -, -dam, 4, 2, -, R, 1300
-Veronica, Pussycats, 4, 7, 5, -, -pil, 2, 1, -, C, 600
-Vince, Nightmare, 5, 6, 7, -, -lif, 4, 3, -, U, 4100
-Vito, Montana, 4, 6, 5, -, soa, 0, 0, -, U, 1800
+Unagi, Fang_Pi_Clang, 2, 4, 4, -, pop, 0, 0, -, C, 800
+Uranus, Sakrohm, 3, 5, 5, -, -dam, 5, 1, Temp., U, 8700
+Uxoh, La_Junta, 3, 7, 1, -, lpd, 1, 0, -, R, 1100
+Vansaar, Leader, 5, 6, 5, Team:, exp, 0, 0, -, R, 210
+Vassili, Freaks, 4, 6, 5, -, +atk, 6, 0, -, U, 380
+Veccio, Montana, 3, 6, 2, Support:, +dam, 1, 0, -, C, 700
+Veenyle, Junkz, 2, 6, 1, -, -dam, 3, 2, -, C, 1100
+Venus, Sakrohm, 4, 6, 6, -, -, 0, 0, -, C, 250
+Vermyn N, Bangers, 4, 5, 7, -, -dam, 4, 1, -, U, 8950
+Vholt, Leader, 5, 7, 5, Team:, -dam, 1, 4, -, R, 38000
+Vickie Cr, Montana, 5, 7, 8, -, sob, 0, 0, Perm., R, 96000
+Vinny, Rescue, 2, 5, 3, Stop:, +pow, 3, 0, -, U, 360
+Vladimir, GHEIST, 5, 6, 7, -, -atk, 5, 1, -, U, 670
+Vryer, GHEIST, 3, 4, 4, -, -atk, 4, 1, -, C, 170
+Wakai, Sakrohm, 2, 7, 1, -, +lif, 2, 0, -, R, 1000
+Walden, Roots, 2, 5, 3, -, pop, 0, 0, -, U, 250
+Wanda, Pussycats, 2, 8, 2, -, -, 0, 0, -, U, 700
+Wardog, La_Junta, 2, 8, 2, -, -, 0, 0, -, C, 2200
 Wardom, GHEIST, 5, 8, 5, Revenge:, +dam, 3, 0, -, R, 3000
+Warren, Ulu_Watu, 2, 3, 3, -, pop, 0, 0, -, C, 120
 Wayne Stark, Uppers, 4, 7, 5, Protection:, bonus, 0, 0, -, U, 2500
-Wendy, Jungo, 2, 7, 2, Revenge:, +dam, 2, 0, -, U, 1900
+Wee Lee, Ulu_Watu, 4, 7, 6, -, -dam, 2, 1, Perm., U, 14000
+Wendel, Uppers, 2, 6, 2, Courage:, soa, 0, 0, -, R, 1100
 Wesley, Rescue, 3, 6, 3, Confidence:, -pow, 3, 4, -, C, 140
-Wilhem, Skeelz, 2, 7, 1, Courage:, +lif, 2, 0, -, U, 1800
-Wurmhol, GHEIST, 2, 7, 1, Defeat:, poi, 1, 4, -, C, 500
-Yumi, Fang_Pi_Clang, 2, 6, 2, Confidence:, +atk, 12, 0, -, U, 7000
+Wheeler, Piranas, 3, 4, 5, -, pop, 0, 0, -, U, 300
+William, Sentinel, 3, 5, 4, -, -atk, 4, 1, -, C, 1000
+Willy, Bangers, 5, 5, 7, Courage:, +pow, 4, 0, -, R, 4350
+Windy Mor, Fang_Pi_Clang, 3, 6, 4, -, sob, 0, 0, -, U, 470
+Winifred, La_Junta, 4, 4, 6, -, -, 0, 0, -, C, 120
+Winston, La_Junta, 2, 6, 2, -, -dam, 3, 3, -, C, 220
+Wolfgang, Freaks, 4, 7, 4, -, -dam, 4, 2, -, U, 600
+XU52, GHEIST, 5, 6, 8, -, -atk, 8, 2, -, R, 3600
+Xia Leming, Fang_Pi_Clang, 3, 6, 4, -, -dam, 2, 2, -, U, 450
+Yaman, Roots, 3, 4, 4, -, -, 0, 0, -, U, 200
+Yayoi, Pussycats, 4, 7, 6, -, soa, 0, 0, -, U, 9500
+Yookie, Roots, 3, 7, 4, -, -dam, 2, 1, -, C, 500
+Yu Mei, Fang_Pi_Clang, 3, 7, 3, -, dod, 0, 0, -, U, 460
+Yusuke, Fang_Pi_Clang, 3, 7, 3, Courage:, +dam, 2, 0, -, U, 450
+Z3r0 D34d, GHEIST, 2, 7, 1, -, +dam, 3, 0, -, U, 4000
 Zack, Ulu_Watu, 4, 7, 4, -, soa, 0, 0, -, U, 950
-Zhang, Sentinel, 4, 7, 4, Stop:, +dam, 4, 0, -, C, 600
-Zinfrid, Fang_Pi_Clang, 4, 7, 4, -, -lif, 3, 0, -, C, 2200
+Zatman, Uppers, 3, 8, 4, -, -atk, 4, 1, Perm., U, 10000
+Zdrone, Sentinel, 4, 5, 7, -, -, 0, 0, -, U, 220
+Zeke, Skeelz, 3, 7, 2, -, -lif, 4, 4, -, U, 720
+Zlatar, Uppers, 4, 3, 8, -, soa, 0, 0, -, C, 300
+Zodiack, Montana, 3, 2, 6, -, -, 0, 0, -, C, 200
+Zoltan, Freaks, 3, 6, 3, -, -dam, 3, 3, -, C, 210

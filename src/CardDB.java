@@ -16,12 +16,12 @@ public class CardDB {
 	
 	public CardDB(){
 		cards= new ArrayList<Card>(initialListSize);
-		fromExternFile("C:\\Users\\Till Berger\\Desktop\\DBcards.js");
+		fromExternFile("C:\\Users\\Botchi\\Downloads\\urdecker_base\\urdecker_base\\DBcards1.js");
 		//"C:\\Users\\Till Berger\\Desktop\\CardList2.txt"
 		//"C:\\Users\\Till Berger\\Desktop\\DBcardsSmall.txt"
-		toFileTest("C:\\Users\\Till Berger\\Desktop\\CardDB.txt");
+		toFileTest("C:\\Users\\Botchi\\Desktop\\CardDB.txt");
 		cards.clear();
-		fromFile("C:\\Users\\Till Berger\\Desktop\\CardDB.txt");
+		fromFile("C:\\Users\\Botchi\\Desktop\\CardDB.txt");
 	}
 	
 	public Card getCard(String name){
