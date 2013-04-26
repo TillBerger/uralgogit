@@ -1,3 +1,4 @@
+package com;
 
 public class Player {
 	private int life, pills;

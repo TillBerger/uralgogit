@@ -1,3 +1,4 @@
+package com;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileInputStream;
@@ -16,6 +17,11 @@ public class CardDB {
 	
 	public CardDB(){
 		cards= new ArrayList<Card>(initialListSize);
+		
+	}
+	public CardDB(String filePath) throws FileNotFoundException{
+		cards= new ArrayList<Card>(initialListSize);
+		fromFile(filePath);
 		
 	}
 	
@@ -113,7 +119,7 @@ public class CardDB {
 		System.out.println("completed.");
 	}
 	
-	public void fromFile(String path){
+	public void fromFile(String path) throws FileNotFoundException{
 		if(cards==null) return;
 		
 		String line;
@@ -152,9 +158,7 @@ public class CardDB {
 				}
 			}
 			fr.close();
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		} catch (IOException e){
+		}catch (IOException e){
 			e.printStackTrace();
 		}
 		
