@@ -16,7 +16,10 @@ public class CardDB {
 	
 	public CardDB(){
 		cards= new ArrayList<Card>(initialListSize);
-		fromFileTest();
+		fromExternFile("C:\\Users\\Till Berger\\Desktop\\DBcards.js");
+		//"C:\\Users\\Till Berger\\Desktop\\CardList2.txt"
+		//"C:\\Users\\Till Berger\\Desktop\\DBcardsSmall.txt"
+		toFileTest("C:\\Users\\Till Berger\\Desktop\\CardDB.txt");
 	}
 	
 	public Card getCard(String name){
@@ -65,19 +68,27 @@ public class CardDB {
 		return -1;
 	}
 	
-	public void toFileTest(){
-		System.out.print("Writing to file...");
+	public void toFileTest(String filePath){
+		System.out.println("Writing to file: "+filePath);
+		System.out.print("...");
 		try {
-			FileWriter fw = new FileWriter("C:\\Users\\Till Berger\\Desktop\\CardList2.txt");
+			FileWriter fw = new FileWriter(filePath);
 			BufferedWriter bw= new BufferedWriter(fw);
 			
 			
 			for(int i=0; i<cards.size(); i++){
 				Card c= cards.get(i);
-				String l= c.getName() +", "+ c.getClan() +", "+ c.getLvl() +", "+
-				c.getPow()+", "+c.getDmg()+", "+c.getCondition()+", "+c.getEffect()+", "+
-				c.getEffectvalue()+", "+c.getMin()+", "+c.getElo()+", "+
-				c.getMaxlvl()+", "+c.getId();
+				String l= c.getName() +", "+
+						c.getClan() +", "+
+						c.getLvl() +", "+
+						c.getPow()+", "+
+						c.getDmg()+", "+
+						c.getCondition()+", "+
+						c.getEffect()+", "+
+						c.getEffectvalue()+", "+
+						c.getMin()+", "+
+						c.getElo()+", "+
+						c.getValue();
 				bw.write(l);
 				bw.newLine();
 			}
@@ -93,13 +104,12 @@ public class CardDB {
 		System.out.println("completed.");
 	}
 	
-	public void fromFileTest(){
+	public void fromExternFile(String path){
 		if(cards==null) return;
-		cards.clear();
 		
-		String path = "C:\\Users\\Till Berger\\Desktop\\DBcardsSmall.txt";
 		String line;
-		System.out.println("Trying to read Cards");
+		System.out.println("Trying to read File: "+path);
+		System.out.print("...");
 		try {
 			FileReader fr= new FileReader(path);
 			BufferedReader br  = new BufferedReader(fr);
@@ -112,6 +122,8 @@ public class CardDB {
 				//if line is empty ignore
 				if(line.isEmpty()) continue;
 		
+			
+				System.out.println(line);
 				String[] sa = line.split(",");
 				//only if the split has lenght 14
 				if(sa.length==14){
@@ -128,9 +140,7 @@ public class CardDB {
 							/*Effect*/ sa[6].trim(),
 							/*Effectvalue*/Integer.parseInt(sa[7].trim()),
 							/*Min*/Integer.parseInt(sa[8].trim()),
-							/*Someting*/ sa[9].trim(),
-							/*Maxlevel*/Integer.parseInt(sa[11].trim()),
-							/*ID*/Integer.parseInt(sa[12].trim()),
+							/*Elo*/ sa[9].trim(),
 							/*Rarity*/ sa[13].trim(),
 							/*Value*/ Integer.parseInt(sa[10].trim())
 							);

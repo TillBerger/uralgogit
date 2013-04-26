@@ -22,7 +22,7 @@ public class Card implements Comparable<Card> {
 	 */
 	public Card(String name, String clan, int lvl, int pow, int dmg,
 			String condition, String effect, int effectvalue, int min,
-			String elo, int maxlvl, int id, String rarity, int value) {
+			String elo, String rarity, int value) {
 		this.name = name;
 		this.clan = clan;
 		this.condition = condition;
@@ -33,8 +33,6 @@ public class Card implements Comparable<Card> {
 		this.dmg = dmg;
 		this.effectvalue = effectvalue;
 		this.min = min;
-		this.maxlvl = maxlvl;
-		this.id = id;
 		this.elo = elo;
 		this.value = value;
 	}
