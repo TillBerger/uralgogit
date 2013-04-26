@@ -15,6 +15,8 @@ public class CardDB {
 	public final static int initialListSize=1000;
 	private ArrayList<Card> cards;
 	
+	private ArrayList<CardDBListener> listener= new ArrayList<CardDBListener>(5);
+	
 	public CardDB(){
 		cards= new ArrayList<Card>(initialListSize);
 		
@@ -31,6 +33,10 @@ public class CardDB {
 		}else{
 			return 0;
 		}
+	}
+	
+	public ArrayList<Card> getCards(){
+		return cards;
 	}
 	
 	public Card getCard(String name){
@@ -174,6 +180,7 @@ public class CardDB {
 		System.out.print("Now sorting...");
 		Collections.sort(cards);
 		System.out.println("completed.");
+		fireUpdatedEvent();
 		
 	}
 	
@@ -230,11 +237,25 @@ public class CardDB {
 		System.out.print("Now sorting...");
 		Collections.sort(cards);
 		System.out.println("completed.");
+		fireUpdatedEvent();
 		
 	}
 	
 	
 	
+	
+	//---------------------------------------Listener Methodes-------------------------------------------------------
+	public void addCardDBListener(CardDBListener l){
+		listener.add(l);
+	}
+	public boolean removeCardDBListener(CardDBListener l){
+		return listener.remove(l);
+	}
+	public void fireUpdatedEvent(){
+		for(CardDBListener l:listener){
+			l.cardDBUpdated(this);
+		}
+	}
 	
 
 }

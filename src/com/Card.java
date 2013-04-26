@@ -132,7 +132,7 @@ public class Card implements Comparable<Card> {
 
 	@Override
 	public int compareTo(Card c) {
-		return name.compareTo(((Card)c).getName());
+		return name.compareToIgnoreCase(((Card)c).getName());
 	}
 }
 
