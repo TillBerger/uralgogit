@@ -1,12 +1,17 @@
 A Award Cr, Sakrohm, 3, 3, 4, Courage:, +pow, 3, 0, -, C, 55000
+Ace, Montana, 2, 6, 2, -, -atk, 4, 4, -, U, 700
 Acid DC, Junkz, 3, 3, 4, -, -, 0, 0, -, C, 150
 Adler, Jungo, 5, 8, 6, Stop:, +dam, 3, 0, -, C, 550
+Ahkab, Piranas, 5, 6, 8, Defeat:, +pil, 3, 0, -, R, 18500
+Aigwon, Skeelz, 4, 6, 6, -, soa, 0, 0, -, U, 650
+Aigwon Noel, Skeelz, 4, 6, 6, Courage:, sob, 0, 0, -, C, 260
 Akendram, Freaks, 3, 7, 4, -, -atk, 6, 3, -, U, 1850
 Akiko, Junkz, 3, 2, 5, -, -dam, 1, 2, -, U, 500
 Aktara, Piranas, 3, 5, 4, Courage:, +dam, 4, 0, -, U, 450
 Aldebaran Cr, Sakrohm, 3, 4, 3, -, -, 0, 0, -, C, 400000
 Aldo, Montana, 3, 4, 4, -, -, 0, 0, -, C, 130
 Alec Cr, Rescue, 4, 7, 4, Support:, +dam, 1, 0, Perm., U, 39500
+Aleister, Sakrohm, 2, 7, 1, -, -dam, 2, 1, -, U, 330
 Alexei, All_Stars, 4, 6, 5, -, soa, 0, 0, -, U, 500
 Alice, Pussycats, 2, 5, 2, -, -, 0, 0, -, C, 240
 Allan, Junkz, 2, 5, 3, -, -, 0, 0, -, C, 125
@@ -15,20 +20,31 @@ Amanie, Roots, 4, 7, 3, -, +lif, 4, 0, -, R, 970
 Ambre, Leader, 5, 6, 4, Team: courage:, +pow, 3, 0, -, R, 20000
 Ambrose Cr, Nightmare, 3, 5, 3, -, lpd, 1, 0, -, U, 110000
 Amelia, All_Stars, 3, 3, 5, -, +pow, 4, 0, -, C, 190
+Amiral Coco, Piranas, 2, 6, 3, Copy:, bonus, 0, 0, -, R, 2700
 Amiral Py Cr, La_Junta, 3, 5, 5, -, -atk, 5, 2, -, U, 3800
 Amy, Sentinel, 3, 3, 5, Courage:, +pow, 3, 0, -, C, 250
+Anakrohm, Sakrohm, 3, 6, 4, Copy:, bonus, 0, 0, -, R, 1200
 Andsom, Piranas, 3, 6, 4, -, -pil, 3, 3, -, U, 550
 Angelina, Montana, 2, 4, 1, -, dod, 0, 0, -, C, 190
+Angelo, Montana, 2, 6, 2, -, soa, 0, 0, -, R, 2100
+Angie, Bangers, 5, 6, 8, -, pop, 0, 0, -, R, 4600
 Anibal, GHEIST, 4, 6, 6, Revenge:, +pow, 2, 0, -, R, 1500
+Aniki, Montana, 4, 6, 6, Revenge:, -pow, 2, 5, -, C, 1100
 Anita, Rescue, 3, 7, 3, Courage:, lpd, 1, 0, -, C, 2200
+Annuqa, Frozn, 3, 6, 4, Copy:, bonus, 0, 0, -, C, 1400
 Anton, Skeelz, 2, 6, 1, -, +pil, 3, 0, -, C, 430
+Arawaka, Nightmare, 3, 6, 2, -, -lif, 6, 6, -, U, 400
 Archibald, La_Junta, 3, 7, 3, -, +pil, 2, 0, -, C, 640
 Archie, Junkz, 3, 7, 4, Protection:, bonus, 0, 0, -, U, 380
 Arkn, GHEIST, 2, 5, 4, -, -atk, 10, 5, -, R, 2000
 Armand, Roots, 5, 7, 7, -, -, 0, 0, -, R, 960
 Armanda Cr, Uppers, 3, 4, 4, -, -, 0, 0, -, C, 900000
+Arnie, La_Junta, 4, 8, 4, Defeat:, rec, 2, 3, -, R, 6100
 Arno, Roots, 2, 4, 4, -, -dam, 3, 2, -, U, 3100
+Artus, Nightmare, 2, 5, 3, -, -dam, 3, 2, -, U, 1000
+Ash, Rescue, 3, 7, 3, -, hea, 1, 8, -, U, 1300
 Ashigaru, Leader, 5, 8, 6, -, sb, 0, 0, -, R, 1300
+Ashiko, Jungo, 2, 8, 1, Stop:, +lif, 3, 0, -, C, 250
 Ashley, All_Stars, 2, 5, 1, -, -dam, 3, 2, -, C, 270
 Askai, Jungo, 5, 7, 7, -, -atk, 12, 8, -, C, 1550
 Asporov, All_Stars, 4, 7, 3, Support:, +dam, 1, 0, -, U, 540
@@ -37,6 +53,7 @@ Ataoualpet, Roots, 3, 3, 4, -, -dam, 5, 5, -, C, 120
 Aurelia, Sentinel, 2, 7, 2, -, -, 0, 0, -, C, 400
 Aurora, Rescue, 5, 7, 5, -, +lif, 3, 0, -, R, 7600
 Avola, Montana, 5, 7, 5, Support:, +dam, 1, 0, -, U, 2000
+Ayah, Frozn, 5, 7, 5, Confidence:, +pd, 2, 0, -, U, 11000
 Aylen, Skeelz, 5, 7, 5, -, +lif, 5, 0, -, U, 3900
 Azel, Nightmare, 4, 7, 4, -, poi, 3, 3, -, U, 2250
 Azgroth, Nightmare, 4, 8, 4, -, -pow, 2, 6, -, U, 7000
