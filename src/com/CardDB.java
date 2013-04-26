@@ -25,6 +25,14 @@ public class CardDB {
 		
 	}
 	
+	public int getNumCards(){
+		if(cards!=null){
+			return cards.size();
+		}else{
+			return 0;
+		}
+	}
+	
 	public Card getCard(String name){
 		int i= getCardIndex(name);
 		if(i>=0){
