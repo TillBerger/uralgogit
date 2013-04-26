@@ -20,6 +20,8 @@ public class CardDB {
 		//"C:\\Users\\Till Berger\\Desktop\\CardList2.txt"
 		//"C:\\Users\\Till Berger\\Desktop\\DBcardsSmall.txt"
 		toFileTest("C:\\Users\\Till Berger\\Desktop\\CardDB.txt");
+		cards.clear();
+		fromFile("C:\\Users\\Till Berger\\Desktop\\CardDB.txt");
 	}
 	
 	public Card getCard(String name){
@@ -88,6 +90,7 @@ public class CardDB {
 						c.getEffectvalue()+", "+
 						c.getMin()+", "+
 						c.getElo()+", "+
+						c.getRarity()+", "+
 						c.getValue();
 				bw.write(l);
 				bw.newLine();
@@ -103,6 +106,61 @@ public class CardDB {
 		}
 		System.out.println("completed.");
 	}
+	
+	public void fromFile(String path){
+		if(cards==null) return;
+		
+		String line;
+		System.out.println("Trying to read File: "+path);
+		System.out.print("...");
+		try {
+			FileReader fr= new FileReader(path);
+			BufferedReader br  = new BufferedReader(fr);
+			
+			
+			
+			while((line=br.readLine())!=null){
+				//if line is a comment ignore
+				if(line.startsWith("//")) continue;
+				//if line is empty ignore
+				if(line.isEmpty()) continue;
+		
+			
+				System.out.println(line);
+				String[] sa = line.split(",");
+				//only if the split has lenght 14
+				if(sa.length==12){
+					
+					Card c= new Card(/*Name*/sa[0].trim(),
+							/*Clan*/sa[1].trim(),
+							/*Level*/Integer.parseInt(sa[2].trim()),
+							/*Pow*/Integer.parseInt(sa[3].trim()),
+							/*Dmg*/Integer.parseInt(sa[4].trim()),
+							/*Condition*/sa[5].trim(),
+							/*Effect*/ sa[6].trim(),
+							/*Effectvalue*/Integer.parseInt(sa[7].trim()),
+							/*Min*/Integer.parseInt(sa[8].trim()),
+							/*Elo*/ sa[9].trim(),
+							/*Rarity*/ sa[10].trim(),
+							/*Value*/ Integer.parseInt(sa[11].trim())
+							);
+					cards.add(c);
+				}
+			}
+			fr.close();
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e){
+			e.printStackTrace();
+		}
+		
+		System.out.println("All cards read! Found "+ cards.size()+" suitable cards.");
+		System.out.print("Now sorting...");
+		Collections.sort(cards);
+		System.out.println("completed.");
+		
+	}
+	
 	
 	public void fromExternFile(String path){
 		if(cards==null) return;
