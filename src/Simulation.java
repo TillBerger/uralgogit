@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 
 public class Simulation {
 
@@ -34,13 +36,15 @@ public class Simulation {
 	    this.heal_value_p1		= 0;
 	    this.heal_max_p1		= 0;
 	    this.teameffect_p1		= "";
-	    this.available_cards_p1	= {true, true, true, true};
+	    this.available_cards_p1	= new boolean[4];
+	    Arrays.fill(available_cards_p1, true);
 	    this.poison_value_p2	= 0;
 	    this.poison_min_p2		= 0;
 	    this.heal_value_p2		= 0;
 	    this.heal_max_p2		= 0;
 	    this.teameffect_p2		= "";
-	    this.available_cards_p2	= {true, true, true, true};
+	    this.available_cards_p2	= new boolean[4];
+	    Arrays.fill(available_cards_p2, true);
 	}
 
 	public Simulation(int life_p1, int pills_p1, int poison_value_p1, int poison_min_p1, int heal_value_p1, int heal_max_p1, String teameffect_p1, boolean[] available_cards_p1, int life_p2, int pills_p2, int poison_value_p2, int poison_min_p2, int heal_value_p2, int heal_max_p2, String teameffect_p2, boolean[] available_cards_p2, Card[] deck_p1, Card[] deck_p2){
