@@ -83,7 +83,9 @@ public class Simulation {
 
 	}
 
-	public void clans(Card[] deck, boolean[] bonus){
+	public boolean[] clanbonus(Card[] deck){
+		
+		boolean[] bonus = new boolean[4];
 		
 		for (int i=1; i<4; i++){
 			if (deck[0].getClan().equals(deck[i].getClan())){
@@ -103,6 +105,8 @@ public class Simulation {
 			bonus[2] = true;
 			bonus[3] = true;
 		}
+		
+		return bonus;
 		
 	}
 
