@@ -79,17 +79,17 @@ public class Simulation {
 	    return new Simulation(life_p1, pills_p1, poison_value_p1, poison_min_p1, heal_value_p1, heal_max_p1, teameffect_p1, available_cards_p1.clone(), bonus_p1.clone(), life_p2, pills_p2, poison_value_p2, poison_min_p2, heal_value_p2, heal_max_p2, teameffect_p2, available_cards_p2.clone(), bonus_p2.clone(), deck_p1, deck_p2);
 	}
 
-	public boolean[] clanbonus(Card[] deck){
-		boolean[] bonus = new boolean[4];
+	public boolean[][] effects(Card[] deck){
+		boolean[][] eff = new boolean[2][4];
 		for (int j=0; j<3; j++){
 			for (int i=j+1; i<4; i++){
 				if (deck[j].getClan().equals(deck[i].getClan())){
-					bonus[j] = true;
-					bonus[i] = true;
+					eff[1][j] = true;
+					eff[1][i] = true;
 				}
 			}
 		}
-		return bonus;
+		return eff;
 	}
 
 	public void calculateFight(){
