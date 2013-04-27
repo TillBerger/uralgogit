@@ -84,7 +84,10 @@ public class CardDB {
 		
 		return -1;
 	}
-	
+	public void addCard(Card c){
+		cards.add(c);
+		Collections.sort(cards);
+	}
 	
 	
 	
@@ -96,10 +99,9 @@ public class CardDB {
 		if(cards!=null) cards.clear();
 	}
 	
-	public void toFileTest(String filePath){
+	public void toFileTest(String filePath) throws FileNotFoundException, IOException{
 		System.out.println("Writing to file: "+filePath);
 		System.out.print("...");
-		try {
 			FileWriter fw = new FileWriter(filePath);
 			BufferedWriter bw= new BufferedWriter(fw);
 			
@@ -125,11 +127,6 @@ public class CardDB {
 			
 			bw.flush();
 			fw.close();
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		} catch (IOException e){
-			e.printStackTrace();
-		}
 		System.out.println("completed.");
 	}
 	

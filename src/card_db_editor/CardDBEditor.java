@@ -29,6 +29,7 @@ import javax.swing.table.DefaultTableModel;
 import java.awt.Color;
 import java.awt.GridLayout;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Comparator;
 
@@ -46,6 +47,7 @@ public class CardDBEditor extends JFrame implements CardDBListener{
 	private CardDB db;
 	private CardListTableModel tmodel;
 	private JTable tblCardList;
+	private JButton btnAddFile;
 
 	/**
 	 * Launch the application.
@@ -89,13 +91,18 @@ public class CardDBEditor extends JFrame implements CardDBListener{
 		contentPane.add(btnOpen);
 		
 		JButton btnSave = new JButton("Save");
+		btnSave.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				save(txtPath.getText());
+			}
+		});
 		btnSave.setBounds(582, 10, 89, 23);
 		contentPane.add(btnSave);
 		
 		JScrollPane scrollPane = new JScrollPane();
 		scrollPane.setHorizontalScrollBarPolicy(ScrollPaneConstants.HORIZONTAL_SCROLLBAR_ALWAYS);
 		scrollPane.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
-		scrollPane.setBounds(10, 46, 578, 413);
+		scrollPane.setBounds(10, 46, 760, 413);
 		contentPane.add(scrollPane);
 		
 		tblCardList = new JTable();
@@ -110,6 +117,39 @@ public class CardDBEditor extends JFrame implements CardDBListener{
 		
 		
 		tblCardList.setAutoCreateRowSorter(true);
+		
+		btnAddFile = new JButton("Add File");
+		btnAddFile.setBounds(681, 10, 89, 23);
+		contentPane.add(btnAddFile);
+		
+		JButton btnAdd = new JButton("Add");
+		btnAdd.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				AddCardDialog dialog= new AddCardDialog();
+				dialog.setVisible(true);
+				Card c = dialog.getCard();
+				if(c!=null){
+					if(db!=null){
+						db.addCard(c);
+					}
+				}
+			}
+		});
+		btnAdd.setBounds(10, 470, 89, 23);
+		contentPane.add(btnAdd);
+		
+		JButton btnEdit = new JButton("Edit");
+		btnEdit.setBounds(109, 470, 89, 23);
+		contentPane.add(btnEdit);
+		
+		JButton btnRemove = new JButton("Remove");
+		btnRemove.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				remove();
+			}
+		});
+		btnRemove.setBounds(208, 470, 89, 23);
+		contentPane.add(btnRemove);
 	}
 	
 	
@@ -153,6 +193,35 @@ public class CardDBEditor extends JFrame implements CardDBListener{
 					));
 			}
 		}
+	}
+	
+	private void save(String path){
+		if(db!=null){
+			try {
+				db.toFileTest(txtPath.getText());
+			} catch (IOException e1) {
+				JOptionPane.showMessageDialog(this, e1);
+				e1.printStackTrace();
+			}
+		}
+	}
+	
+	
+	private void remove(){
+		if(tmodel!=null){
+			int[] colls =tblCardList.getSelectedColumns();
+			String[] names = new String[tblCardList.getSelectedColumnCount()];
+			for(int i=0; i<tblCardList.getSelectedColumnCount();i++){
+				names[i] = tmodel.getValueAt(1, colls[i]).toString();
+				
+			}
+			for(int i=0; i< names.length;i++){
+				db.removeCard(names[i]);
+			}
+		}
+	}
+	private void edit(){
+		
 	}
 
 	@Override
