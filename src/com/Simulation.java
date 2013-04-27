@@ -94,7 +94,15 @@ public class Simulation {
 
 	public void calculateFight(){
 
-		
-
+	}
+	
+	public void output(){
+		System.out.println("P1:");
+		System.out.println("A: " + effects(deck_p1)[0][0] + " " + effects(deck_p1)[0][1] + " " + effects(deck_p1)[0][2] + " " + effects(deck_p1)[0][3]);
+		System.out.println("B: " + effects(deck_p1)[1][0] + " " + effects(deck_p1)[1][1] + " " + effects(deck_p1)[1][2] + " " + effects(deck_p1)[1][3]);
+		System.out.println("");
+		System.out.println("P2:");
+		System.out.println("A: " + effects(deck_p2)[0][0] + " " + effects(deck_p2)[0][1] + " " + effects(deck_p2)[0][2] + " " + effects(deck_p2)[0][3]);
+		System.out.println("B: " + effects(deck_p2)[1][0] + " " + effects(deck_p2)[1][1] + " " + effects(deck_p2)[1][2] + " " + effects(deck_p2)[1][3]);
 	}
 }
